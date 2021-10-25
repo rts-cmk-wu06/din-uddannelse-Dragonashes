@@ -1,13 +1,16 @@
-.ordergrid{
-    grid-template-columns:1fr !important;
+.ordergrid {
+  grid-template-columns: 1fr !important;
 }
-.order1{
-    grid-row:1 !important;
+
+.order1 {
+  grid-row: 1 !important;
 }
-.order2{
-    grid-column:1 !important;
-    grid-row:2 !important;
+
+.order2 {
+  grid-column: 1 !important;
+  grid-row: 2 !important;
 }
-.order3{
-    grid-row:3 !important;
+
+.order3 {
+  grid-row: 3 !important;
 }

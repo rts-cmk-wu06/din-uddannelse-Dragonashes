@@ -1,10 +1,12 @@
-body{
-    margin:33px;
+body {
+  margin: 33px;
 }
-.flex{
-    display:flex;
-    flex-flow:row;
+
+.flex {
+  display: flex;
+  flex-flow: row;
 }
-.flex-sub-1,.flex-sub-2{
-    width:50%;
+
+.flex-sub-1, .flex-sub-2 {
+  width: 50%;
 }
